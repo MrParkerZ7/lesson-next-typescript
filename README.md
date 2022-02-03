@@ -1,11 +1,11 @@
 
 ## linked
-```
-Youtube : https://www.youtube.com/watch?v=PTD7YSOmut4
-Next.JS : https://nextjs.org/docs/api-reference/create-next-app
-Next.TS : https://nextjs.org/docs/basic-features/typescript
+### [Tutorial](https://www.youtube.com/watch?v=PTD7YSOmut4)
+### [Next.JS](https://nextjs.org/docs/api-reference/create-next-app)
+### [Next.TS](https://nextjs.org/docs/basic-features/typescript)
 
-```
+## --->>>>>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
